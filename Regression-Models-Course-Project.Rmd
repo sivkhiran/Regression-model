@@ -1,6 +1,6 @@
 ---
 title: "Automatic or Manual?"
-author: "Binali Perera"
+author: "KHIRAN KUMAR"
 date: "05 MAY 2019"
 output:
   pdf_document: default
